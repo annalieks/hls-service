@@ -1,0 +1,6 @@
+# IDE
+.idea/
+
+# Generated Files
+files/
+output/
